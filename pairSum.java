@@ -1,4 +1,5 @@
 public class pairSum {
+    // O(n)
     public static void main(String[] args) {
         int[] num = {2,5,9,11};
         int i=0, j=num.length-1, target = 14;
